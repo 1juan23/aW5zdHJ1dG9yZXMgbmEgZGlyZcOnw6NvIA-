@@ -1,0 +1,13 @@
+project_id = "sfydnufipydnegefrpat"
+
+[functions.send-booking-email]
+verify_jwt = false
+
+[functions.send-lesson-reminders]
+verify_jwt = false
+
+[functions.send-cancellation-email]
+verify_jwt = false
+
+[functions.notify-new-instructor]
+verify_jwt = false
